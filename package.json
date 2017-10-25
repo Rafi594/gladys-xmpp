@@ -1,0 +1,19 @@
+{
+  "name": "gladys-xmpp",
+  "version": "0.1.0",
+  "description": "Gladys hooks to communicate with XMPP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gladys",
+    "xmpp",
+    "module"
+  ],
+  "author": "rafi59",
+  "license": "CC-BY-NC-SA-3.0",
+  "dependencies": {
+    "node-xmpp": "^1.1.0"
+  }
+}
